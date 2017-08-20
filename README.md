@@ -6,6 +6,8 @@ Projects for my Udacity Data Analyst Nanodegree
 Identify the key steps of the data analysis process and walk through a basic exploratory data analysis on Bay Area Bike
 Share data. 
 
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p0/Bay_Area_Bike_Share_Analysis.ipynb)
+
 ## P1: Investigate a Dataset
 
 Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis
