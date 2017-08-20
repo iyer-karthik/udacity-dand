@@ -8,10 +8,12 @@ Share data.
 
 [Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p0/Bay_Area_Bike_Share_Analysis.ipynb)
 
-## P1: Investigate a Dataset
+## P1: Investigate a Dataset using NumPy and Pandas
 
 Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis
 process, starting by posing a question and finishing by sharing your findings.
+
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p1/titanic_notebook.ipynb)
 
 ## P2: Wrangle OpenStreetMap Data
 
