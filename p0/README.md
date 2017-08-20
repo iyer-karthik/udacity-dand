@@ -12,4 +12,7 @@ Data is split among twelve other files, organized into three sets of four files 
 
 \*_trip_data.csv_ - Information about each trip taken using the bike share system.
 
-\*_weather_data.csv_ - Weather information by day for one station in each city in the bike share progra
+\*_weather_data.csv_ - Weather information by day for one station in each city in the bike share program.
+
+(Please note that _201508_trip_data.csv_ is too large to be uploaded here. If you want to replicate the results,
+let me know and I will send you the file.)
