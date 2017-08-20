@@ -3,8 +3,8 @@ Projects for my Udacity Data Analyst Nanodegree
 
 ## P0: Bay Area Bike Share 
 
-Identify the key steps of the data analysis process and perform a basic exploratory data analysis on Bay Area Bike
-Share data. Get used to asking the right questions before diving in to a project.
+Identify the key steps of the data analysis process and walk through a basic exploratory data analysis on Bay Area Bike
+Share data. 
 
 ## P1: Investigate a Dataset
 
