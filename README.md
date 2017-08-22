@@ -21,7 +21,11 @@ Choose any area of the world in https://www.openstreetmap.org and use data mungi
 of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for a part of 
 the world of your choice. Choose to learn SQL or MongoDB and apply your chosen schema to the project.
 
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p2/final_project.md)
+
 ## P3: Exploratory Data Analysis
 
 Use R and apply exploratory data analysis techniques to explore the variables, structure, patterns, oddities, and underlying
 relationships of a data set of your choice.
+
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p3/Final_project.pdf)
