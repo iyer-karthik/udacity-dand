@@ -1,0 +1,8 @@
+Map area 
+
+In this project I chose to study the map area of Seattle, WA, United States downloaded as a custom extract for "City of Seattle, WA, USA" XML OpenStreetMap (OSM) data set from 
+https://mapzen.com/data/metro-extracts/
+(Uncompressed file size ~ 283 MB). 
+
+I chose Seattle because I live here and am interested to know a bit more about it.  
+I also hope to contribute to the OSM project by submitting the cleaned data for Seattle. 
