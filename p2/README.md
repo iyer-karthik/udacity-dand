@@ -1,12 +1,12 @@
 In this project, we choose the city of Seattle from https://www.openstreetmap.org and use data munging techniques,<br> 
 such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, 
-to clean the OpenStreetMap data. The project comprises of the following files.
+to clean the OpenStreetMap data. The project contains the following files.
 
 __Python Scripts__
 
 1. _getsampleosm.py_ - Take a systematic sample of elements from the original OSM file.
 
-2. _cleaning.py_ - Programmatically clean the street names and phone numbers
+2. _cleaning.py_ - Programmatically clean the street names and phone numbers.
 
 
 3. _data.py_ - Parse the elements in the OSM XML file, transforming them from document format to tabular format,<br> 
@@ -23,14 +23,14 @@ __Markdown__
 
 _final_project_ 
 
-Final project report
+Final project report.
 
 __OSM file__
 
 *SampleStreetMapData.osm*
 
 Sample OSM file extracted from the original OSM file. Used for testing the code on 
-subset of the original data
+subset of the original data.
 
 __Map Area__
 
