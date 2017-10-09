@@ -69,9 +69,9 @@ def update_phone_number(phone_number):
     #Choose only the digits in the phone number string.
     stripped_number =''.join(i for i in phone_number if i.isdigit())
     
-    if len(stripped_number)>10:
+    if len(stripped_number) > 10:
         
-        if stripped_number[0]=='1':
+        if stripped_number[0] == '1':
             updated_phone_number = format_phone_number(stripped_number[1:])
             return(updated_phone_number)
         
@@ -80,7 +80,7 @@ def update_phone_number(phone_number):
             updated_phone_number = format_phone_number(stripped_number)
             return(updated_phone_number)
     
-    elif len(stripped_number) ==10:
+    elif len(stripped_number) == 10:
         
         updated_phone_number = format_phone_number(stripped_number)
         return(updated_phone_number)
@@ -98,11 +98,11 @@ def format_phone_number(stripped_number):
     
     # for extensions
     if len(stripped_number) > 10:
-        result = result + stripped_number[:3]+'-'+stripped_number[3:6]+'-' \
-        + stripped_number[6:10] + 'x'+stripped_number[10:]
+        result = result + stripped_number[:3] +'-' + stripped_number[3:6] + '-' \
+        + stripped_number[6:10] + 'x'+ stripped_number[10:]
         return(result)
     
-    if len(stripped_number)==10:
-        result = result + stripped_number[:3]+'-'+stripped_number[3:6]+'-' \
+    if len(stripped_number) == 10:
+        result = result + stripped_number[:3] +'-'+ stripped_number[3:6] + '-' \
         + stripped_number[6:]
         return(result)
