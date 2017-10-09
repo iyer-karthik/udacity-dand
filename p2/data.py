@@ -218,7 +218,7 @@ def shape_element(element, node_attr_fields=NODE_FIELDS, way_attr_fields=WAY_FIE
                 if child.attrib['k'] == "addr:street" or child.attrib['k']=="addr:city":
                     nodes['value'] = cleaning.update_name(child.attrib['v'], cleaning.mapping)
                     
-                elif child.attrib['k']=="phone":
+                elif child.attrib['k'] == "phone":
                     nodes['value'] = cleaning.update_phone_number(child.attrib['v'])
                     
                 else:
@@ -234,7 +234,7 @@ def shape_element(element, node_attr_fields=NODE_FIELDS, way_attr_fields=WAY_FIE
                 nodes['key'] = after_colon
                 nodes['id'] = element.attrib['id']
                 
-                if child.attrib['k'] == "addr:street" or child.attrib['k']=="addr:city":
+                if child.attrib['k'] == "addr:street" or child.attrib['k'] == "addr:city":
                     nodes['value'] = cleaning.update_name(child.attrib['v'], cleaning.mapping)
                     
                 elif child.attrib['k']=="phone":
@@ -269,7 +269,7 @@ def shape_element(element, node_attr_fields=NODE_FIELDS, way_attr_fields=WAY_FIE
                     ways['key'] = child.attrib['k']
                     ways['id'] = element.attrib['id']
                     
-                    if child.attrib['k'] == "addr:street" or child.attrib['k']=="addr:city":
+                    if child.attrib['k'] == "addr:street" or child.attrib['k'] == "addr:city":
                         ways['value'] = cleaning.update_name(child.attrib['v'], cleaning.mapping)
                         
                     elif child.attrib['k']=="phone":
