@@ -1,4 +1,5 @@
-''' Script for auditing and cleaning street names and phone numbers'''
+''' Script for auditing and cleaning street names and phone numbers.
+Author: Karthik Iyer'''
 
 # UPDATE street abbreviations and city name according to the dictionary 'mapping'.
 mapping = { "St": "Street",
@@ -11,13 +12,13 @@ mapping = { "St": "Street",
             "Pl" : "Place",
             "S" :  "South",
             "N" : "North",
-            "N.": "North",
+            "N." : "North",
             "S." : "South",
             "N.E." : "Northeast",
             "NE" : "Northeast",
-            "NW": "Northwest",
-            "SW": "Southwest",
-            "nw": "Northwest",
+            "NW" : "Northwest",
+            "SW" : "Southwest",
+            "nw" : "Northwest",
             "street" : "Street",
             "E" : "East",
             "Dr" : "Drive",
@@ -32,7 +33,7 @@ For instance, 'N Allen st' will be returned as 'North Allen Street'.'''
 
 def update_name(oldname, mapping):
 
-    new_name_list=[]
+    new_name_list = []
     list_name = oldname.split(" ")
     for element in list_name:
         if element in mapping.keys():
