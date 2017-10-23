@@ -1,5 +1,6 @@
 
-# OpenStreetMap Data Case Study
+# OpenStreetMap Data Case Study<br>
+# Author: Karthik Iyer
 
 
 
