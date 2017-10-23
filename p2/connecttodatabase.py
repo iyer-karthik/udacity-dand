@@ -1,5 +1,6 @@
 '''Create a database files out of .csv files which act as the tables of 
-the database'''
+the database.
+Author: Karthik Iyer'''
 
 import csv, sqlite3
 
