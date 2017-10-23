@@ -5,9 +5,9 @@ I choose to analyze the [online news popularity](https://archive.ics.uci.edu/ml/
 
 Here are the main files for the project:
 
-__Project Report R code__ _Final_project.R_ 
+__Project Report R code__ _Final_project.R_ (R code for the project.)
 
-__Project Report__ : A .pdf file detailing the entire analysis and findings. 
+__Project Report__ : _Final_project.pdf_ (A .pdf file detailing the entire analysis and findings.)
 
 
 
