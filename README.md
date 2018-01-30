@@ -9,7 +9,7 @@ The goal of this project is to identify the key steps of the data analysis proce
 
 ## P1: Investigate a Dataset using NumPy and Pandas
 
-In this project, I chose the https://www.kaggle.com/c/titanic[Titanic] dataset and investigated it using NumPy and Pandas. I go through the entire data analysis process, starting by posing a question and finishing by sharing my findings. The goal of this project was to get used to *numpy* and *pandas*, 2 of the most widely used packages in Python for data analysis. 
+In this project, I chose the [Titanic](https://www.kaggle.com/c/titanic) dataset and investigated it using NumPy and Pandas. I go through the entire data analysis process, starting by posing a question and finishing by sharing my findings. The goal of this project was to get used to *NumPy* and *Pandas*, 2 of the most widely used packages in Python for data analysis. 
 
 [Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p1/titanic_notebook.ipynb)
 
