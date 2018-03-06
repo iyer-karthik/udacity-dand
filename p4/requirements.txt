@@ -1,0 +1,6 @@
+Latest versions of 
+
+1. numpy 
+2. pickle
+3. pandas
+4. sklearn
