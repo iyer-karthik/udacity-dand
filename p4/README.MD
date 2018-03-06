@@ -22,5 +22,23 @@ best model and calls the testing script.
 
 *tester.py* - A basic script for checking the results of the classification model. Requires that the algorithm, dataset, and features list
  be written to my_classifier.pkl, my_dataset.pkl, and my_feature_list.pkl, respectively.This process should happen at the end of *main.py*. 
+ 
+ *tools/feature_format.py* A general tool for converting data from the dictionary format to an (n x k) python list that's 
+ ready for training an sklearn algorithm. 
+ 
+ **Report**
+ 
+ *project_report.ipynb* - Detailed project report. 
+ 
+ **Datasets**
+ 
+ *final_project_dataset.pkl* - A PKL file containing the data. 
+ 
+ *my_classifier.pkl*, *my_dataset.pkl*, *my_feature_list.pkl* - PKL files containing the classifier, dataset and feature list
+ so that anyone can check the result. 
+ 
+ *enron61702insiderpay.pdf* - A pdf file containing the Enron financial data. 
+ 
+
 
 
