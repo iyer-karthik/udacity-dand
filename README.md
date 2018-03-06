@@ -22,6 +22,12 @@ In this project, I chose a particular area of the world from  https://www.openst
 ## P3: Exploratory Data Analysis
 
 In this project, I apply exploratory data analysis techniques to explore the variables, structure, patterns, oddities, and underlying
-relationships of a data set of my choice. The goal of this project was to learn to do visual exploration of various features of a gicen data set before a more thorough analysis. In this project, I primarily made use of *ggplot2* and *dplyr* packages in R programming language to accomplish the visual exploration. 
+relationships of a data set of my choice. The goal of this project was to perform visual exploration of various features of a given data set before a more thorough analysis. In this project, I primarily made use of *ggplot2* and *dplyr* packages in R programming language to accomplish the visual exploration. 
 
 [Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p3/Final_project.pdf)
+
+## P4: Machine Learning
+
+The goal of this project is to build a person of interest (POI) classifier from the Enron dataset which comprises of financial and e-mail data of around 150 persons whose records were made public during the federal hearings after the Enron fraud came to light. Based on the various financial and e-mail features, the objective is to build a classification model that separates POIs from non POIs. The classification model is to achieve a precision and recall of greater than 0.3.
+
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p4/project_report.ipynb)
