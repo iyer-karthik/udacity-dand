@@ -9,7 +9,7 @@
     be written to my_classifier.pkl, my_dataset.pkl, and
     my_feature_list.pkl, respectively
 
-    This process should happen at the end of poi_id.py
+    This process should happen at the end of main.py
 """
 
 import pickle
