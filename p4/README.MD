@@ -1,11 +1,10 @@
 
 **Overview**
 
-The Enron fraud is a big, messy and totally fascinating story about corporate malfeasance of nearly every imaginable type. 
+The [Enron fraud](https://en.wikipedia.org/wiki/Enron_scandal) is a big, messy and totally fascinating story about corporate malfeasance of nearly every imaginable type. 
 The goal of this project is to build a person of interest (POI) classifier from the Enron dataset which comprises of financial 
 and e-mail data of around 150 persons whose records were made public during the subsequent federal hearings.  Based on the various 
-financial and e-mail features, the objective is to build a classification model that separates POIs from non POIs. The classification model is 
-to achieve a precision and recall of greater than 0.3. 
+financial and e-mail features, the objective is to build a classification model that separates POIs from non POIs. The classification model is to achieve a precision and recall of greater than 0.3. 
 
 **Scripts**
 
