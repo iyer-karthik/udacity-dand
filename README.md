@@ -31,3 +31,10 @@ relationships of a data set of my choice. The goal of this project was to perfor
 The goal of this project is to build a person of interest (POI) classifier from the Enron dataset which comprises of financial and e-mail data of around 150 persons whose records were made public during the federal hearings after the Enron fraud came to light. Based on the various financial and e-mail features, the objective is to build a classification model that separates POIs from non POIs. The classification model is to achieve a precision and recall of greater than 0.3.
 
 [Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p4/project_report.ipynb)
+
+## P5: Hypothesis Testing
+
+The goal of this project is to identify components of an experiment, use descriptive statistics to describe qualities of a sample, 
+set up a hypothesis test, make inferences from a sample, and finally draw conclusions based on the results. 
+
+[Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p5/stroop_effect.ipynb)
