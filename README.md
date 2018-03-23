@@ -1,5 +1,6 @@
-# Udacity Data Analyst Nanodegree
-Projects for my Udacity Data Analyst Nanodegree. 
+# [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+My Projects for Udacity Data Analyst Nanodegree Program. 
 
 ## P0: Bay Area Bike Share 
 
@@ -38,3 +39,8 @@ The goal of this project is to identify components of an experiment, use descrip
 set up a hypothesis test, make inferences from a sample, and finally draw conclusions based on the results. 
 
 [Link to project report](https://github.com/iyer-karthik/udacity-dand/blob/master/p5/stroop_effect.ipynb)
+
+---------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/iyer-karthik/udacity-dand/blob/master/Certificate.png" width="1000"/> 
+
